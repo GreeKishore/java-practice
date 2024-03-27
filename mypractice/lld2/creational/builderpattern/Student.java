@@ -29,7 +29,7 @@ public class Student {
     */
 
     /*
-    Step 2: this is also a problem because we might pass a value with a type (possible rt). so there might
+    Step 2: this is also a problem because we might pass a value with a type error (typo possible rt). so there might
     be a problem in validation. So we are using creating a helper(Builder class)
 
     public Student(HashMap<String , Object> hm) {
